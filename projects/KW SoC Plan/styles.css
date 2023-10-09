@@ -1,0 +1,48 @@
+body{
+  color: black;
+  font-family: american typewriter, serif;
+     
+}
+
+.flex-container {
+  display: flex;
+}
+
+.flex-child {
+  flex: 1;
+  border: 2px solid white;
+  
+}  
+
+.flex-child:first-child {
+  margin-right: 2px;
+} 
+
+
+
+.box1, .box2, .box3, .box7, .box8, .box9{
+  background-color: #4b9ce3;
+  width:33%;
+  text-align: center;
+  border: solid 2px #4b9ce3;
+  border-radius: 10px 10px 0 0;
+  margin: 10px;
+}
+
+.box4, .box5, .box6, .box10, .box11, .box12{
+  background-color: white;
+  width:33%;
+  text-align: center;
+  border-bottom: solid 2px #0d27ba;
+  border-left: solid 2px #0d27ba;
+  border-right: solid 2px #0d27ba;
+  border-radius: 10px;
+  border-radius: 0 0 10px 10px;
+  margin: 10px;
+}
+
+h1{
+  color:white
+}
+
+
