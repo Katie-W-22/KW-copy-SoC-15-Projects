@@ -45,4 +45,22 @@ h1{
   color:white
 }
 
+.bold{
+  font-weight: bold;
+}
 
+.red{
+  color: red;
+}
+
+.logo{
+  height: 50px;
+}
+
+.hack{
+  color:rgb(12, 171, 36)
+}
+
+.joe{
+  color:rgb(200, 57, 169)
+}
